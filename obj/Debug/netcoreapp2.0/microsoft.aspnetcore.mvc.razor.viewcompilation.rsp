@@ -1,0 +1,5 @@
+C:\dotnet-docker-container
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=dotnet-docker-container
+--content-root=C:\dotnet-docker-container
+--file=

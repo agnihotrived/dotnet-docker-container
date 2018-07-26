@@ -1,0 +1,11 @@
+C:\dotnet-docker-container\bin\Debug\netcoreapp2.0\dotnet-docker-container.deps.json
+C:\dotnet-docker-container\bin\Debug\netcoreapp2.0\dotnet-docker-container.runtimeconfig.json
+C:\dotnet-docker-container\bin\Debug\netcoreapp2.0\dotnet-docker-container.runtimeconfig.dev.json
+C:\dotnet-docker-container\bin\Debug\netcoreapp2.0\dotnet-docker-container.dll
+C:\dotnet-docker-container\bin\Debug\netcoreapp2.0\dotnet-docker-container.pdb
+C:\dotnet-docker-container\obj\Debug\netcoreapp2.0\dotnet-docker-container.csprojAssemblyReference.cache
+C:\dotnet-docker-container\obj\Debug\netcoreapp2.0\dotnet-docker-container.csproj.CoreCompileInputs.cache
+C:\dotnet-docker-container\obj\Debug\netcoreapp2.0\dotnet-docker-container.AssemblyInfoInputs.cache
+C:\dotnet-docker-container\obj\Debug\netcoreapp2.0\dotnet-docker-container.AssemblyInfo.cs
+C:\dotnet-docker-container\obj\Debug\netcoreapp2.0\dotnet-docker-container.dll
+C:\dotnet-docker-container\obj\Debug\netcoreapp2.0\dotnet-docker-container.pdb
